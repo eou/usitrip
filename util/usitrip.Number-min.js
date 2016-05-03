@@ -1,0 +1,1 @@
+!function(){Usitrip.Number=function(){},Usitrip.apply(Usitrip.Number,{lpadZero:function(x){return 10>x?"0"+x:x},strToNumber:function(str){var num=str.replace(/[^0-9\.]+/gi,"");return parseFloat(num)}})}();
